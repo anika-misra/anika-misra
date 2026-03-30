@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Anika Misra
+Reg. No. - 25BOE10034
+VIT Bhopal University
 
-<!--
-**anika-misra/anika-misra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🎓 Academic Profile
+- Student focused on academic excellence and practical learning  
+- Interested in research, problem-solving, and technology  
 
-Here are some ideas to get you started:
+## 📚 Areas of Interest
+- B.tech. Bioengineering
+ - Research & Development  
+- Emerging Technologies  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+- Programming: Python / Java  
+- Tools: Git, VS Code  
+  
