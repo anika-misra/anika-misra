@@ -1,5 +1,7 @@
 # Hi, I'm Anika Misra
+
 Reg. No. - 25BOE10034
+
 VIT Bhopal University
 
 ## 🎓 Academic Profile
@@ -13,5 +15,8 @@ VIT Bhopal University
 
 ## 🛠️ Skills
 - Programming: Python / Java  
-- Tools: Git, VS Code  
+- Tools: Git, VS Code
+
+## 📧 Contact details: 
+LinkedIn-  www.linkedin.com/in/anika-misra-649b113b9 
   
